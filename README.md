@@ -22,9 +22,9 @@
 ## 贡献
 ### 感谢所有为此项目做出贡献的人们！ 
 
-[感谢所有为此项目恭喜start的入们！](https://github.com/wangercha/xinpeng/stargazers)
+[感谢start此项目的人们！](https://github.com/wangercha/xinpeng/stargazers)
 
-[南北 如来 二叉 DZ 大春](https://github.com/wangercha/xinpeng/graphs/contributors)
+[二叉 如来 南北 DZ 大春](https://github.com/wangercha/xinpeng/graphs/contributors)
 
 ## 协议
 MIT </br>
