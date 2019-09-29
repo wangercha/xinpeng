@@ -5,8 +5,6 @@
 > - 本项目为上班摸鱼项目
 > - 感谢长沙线上线下交流群
 > - 感谢参与此项目的所有作者
-> - 走过路过给个星星哦
-> - 项目参与人：南北 如来 二叉 DZ 大春
 
 </br>
 
@@ -21,6 +19,13 @@
 ## 最重要的是
 摸鱼是主要的；学习只是附带的。
 
-## License
+## 贡献
+### 感谢所有为此项目做出贡献的人们！ 
+
+[感谢所有为此项目恭喜start的入们！](https://github.com/wangercha/xinpeng/stargazers)
+
+[南北 如来 二叉 DZ 大春](https://github.com/wangercha/xinpeng/graphs/contributors)
+
+## 协议
 MIT </br>
 鑫鹏本人实名制授权
